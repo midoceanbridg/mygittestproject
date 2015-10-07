@@ -4,4 +4,4 @@ An attempt to learn about git and github.
 
 ## Now adding another section
 
-In order to udnerstand how re-commiting works
+In order to understand how re-commiting works
